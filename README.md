@@ -23,7 +23,7 @@ Add your timetable using `<td>` tag.
 Execute the program using runserver command.
 
 # PROGRAM
-'''
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -102,7 +102,7 @@ Execute the program using runserver command.
     </table>
 </body>
 </html>
-'''
+```
 # OUTPUT
 <img width="1916" height="1022" alt="image" src="https://github.com/user-attachments/assets/95ad9b8f-1eac-4b5e-9ed8-310f85bbe0d5" />
 
